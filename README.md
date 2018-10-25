@@ -12,6 +12,13 @@ Web development boilerplate.
 
 TortoiseGit https://tortoisegit.org/ is recommended for Windows users.
 
+## Installation
+
+1. Open command line (e.g. Git Bash) in project folder
+2. Run `npm install` and follow instructions
+
+Troubleshooting: https://github.com/cyber-fox/devstack/wiki, https://github.com/cyber-fox/devstack/issues, renner@cyberfox.cz
+
 ----
 
 You can use the [editor on GitHub](https://github.com/cyber-fox/devstack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
