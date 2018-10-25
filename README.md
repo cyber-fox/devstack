@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# devstack
+
+Web development boilerplate.
+
+----
+
+## Prerequisites
+
+1. Windows/macOS/Linux
+2. Git https://git-scm.com/downloads (default Win install settings are fine)
+3. Node.js + NPM https://nodejs.org/en/download/ (default Win install settings are OK)
+
+----
 
 You can use the [editor on GitHub](https://github.com/cyber-fox/devstack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
