@@ -7,8 +7,10 @@ Web development boilerplate.
 ## Prerequisites
 
 1. Windows/macOS/Linux
-2. Git https://git-scm.com/downloads (default Win install settings are fine)
-3. Node.js + NPM https://nodejs.org/en/download/ (default Win install settings are OK)
+2. **Git** https://git-scm.com/downloads (default Win install settings are fine)
+3. **Node.js** + NPM https://nodejs.org/en/download/ (default Win install settings are OK)
+
+TortoiseGit https://tortoisegit.org/ is recommended for Windows users.
 
 ----
 
