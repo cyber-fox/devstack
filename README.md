@@ -18,13 +18,13 @@ TortoiseGit https://tortoisegit.org/ is recommended for Windows users.
 1. Open command line (e.g. Git Bash) in project (package root) folder
 2. Run `npm install` and follow instructions
 
-```
+```shell_session
 npm install
 ```
 
 For review purposes run just `npm install --production`. It won't install [devDependencies](https://docs.npmjs.com/files/package.json#devdependencies).
 
-```
+```shell_session
 npm install --production
 ```
 
