@@ -30,7 +30,16 @@ For review purposes run just `npm install --production`. It won't install [devDe
 npm install --production
 ```
 
-## Troubleshooting: 
+## Deployment
+
+*tbd*
+
+## Troubleshooting
+
+*tbd*
+
+### Other sources
+
 * https://github.com/cyber-fox/devstack/wiki
 * https://github.com/cyber-fox/devstack/issues
 * https://docs.npmjs.com/all
