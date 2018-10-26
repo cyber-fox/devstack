@@ -10,14 +10,21 @@ Web development boilerplate.
 2. **Git** https://git-scm.com/downloads (default Win install settings are fine)
 3. **Node.js** + NPM https://nodejs.org/en/download/ (default Win install settings are OK)
 
+Run `npm install npm -g` after Node.js installation.  
 TortoiseGit https://tortoisegit.org/ is recommended for Windows users.
 
 ## Installation
 
-1. Open command line (e.g. Git Bash) in project folder
+1. Open command line (e.g. Git Bash) in project (package root) folder
 2. Run `npm install` and follow instructions
 
-Troubleshooting: https://github.com/cyber-fox/devstack/wiki, https://github.com/cyber-fox/devstack/issues, renner@cyberfox.cz
+For review purposes run just `npm install --production`. It won't install [devDepenencies](https://docs.npmjs.com/files/package.json#devdependencies).
+
+Troubleshooting: 
+* https://github.com/cyber-fox/devstack/wiki
+* https://github.com/cyber-fox/devstack/issues
+* https://docs.npmjs.com/all
+* renner@cyberfox.cz
 
 ----
 
