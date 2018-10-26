@@ -33,7 +33,3 @@ npm install --production
 * https://github.com/cyber-fox/devstack/issues
 * https://docs.npmjs.com/all
 * renner@cyberfox.cz
-
-----
-
-https://www.cyberfox.cz/ 2018
