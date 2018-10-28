@@ -1,0 +1,60 @@
+* slack,mail
+* EUC
+* PION
+    + devstack
+* ADK
+* Tecon
+
+http://yeoman.io/
+http://pho.madebysource.com/
+
+https://webdesign.tutsplus.com/articles/structuring-sass-saying-goodbye-to-atomic-design-ambiguity--cms-26679
+
+dev/
+    - js/
+        - config/
+        - global/
+        - helpers/
+        - modules/
+        - app.js
+    - scss/
+        - config/
+        - components/
+            - atoms/
+                _colors.scss
+                _typography.scss
+            - molecules/
+                - .gitkeep
+            - organisms/
+            - pages/
+            - templates/
+        - helpers/
+            - functions/
+            - mixins/
+            - utility/
+        - skins/
+        - app.scss
+    - templates/
+mockup/
+    - data/
+    - mockups/
+    - templates/
+        - smarty/
+    - loader.php
+    - pages.php
+resources/
+www_root/
+    - css/
+        - common.css
+    - fonts/
+    - images/
+    - js/
+        - common.js
+        - critical.js
+    - .htaccess
+    - index.php
+    - robots.txt
+.gitignore
+package.json
+README.md
+

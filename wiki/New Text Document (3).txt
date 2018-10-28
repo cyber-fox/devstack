@@ -1,0 +1,56 @@
+﻿http://www.respekt.cz/redesign/ - scrollmagic?
+devstack jako globalni!! modul
+CSSInliner
+
+wp - https://www.upstatement.com/timber/
+https://twig.symfony.com/
+
+
+KSS
+https://warpspire.com/kss/styleguides/
+https://primer.style/
+
+
+beyond settings export!
+
+
+
+WPX_VERSION
+WPX_MODE
+WPX_TEMPLATE_LANGUAGE
+
+$WPX
+WPX::activeClass('current');
+$wpx = new Wpx();
+$wpx->ajax->headers();
+$wpx->mockup->name(); //random
+$wpx->mockup->firstName( [ 'gender' => 1, 'length' => 'random' ] );  //v PHP asi preferovat WP style
+
+$pion = new Pion();
+PION::link();
+$pion->html->a( 'Příklad', 'example-page', '',  );
+$pion->html->helper->link( [ 'url' => '/example-page', 'label' => '<span>Příklad</span>', 'wrapper' => 'li', 'active' => 'wrapper', 'activeClass' => 'active' ] );
+$pion->html->a( [ 'url' => '/example-page', 'label' => '<span>Příklad</span>', 'wrapper' => 'li', 'active' => 'wrapper', 'activeClass' => 'active' ] );
+$pion->html->a( 'example-page', [ 'attributes' => [ 'data-example' => 'foo' ] ] );
+$pion->html->a( 'homepage', [ 'wrapper' => 'li', 'active' => 'wrapper', 'echo' => FALSE ] );
+$pion->html->a( 'homepage', [ 'active' => FALSE ] );
+$pion->html->a( 'homepage', 'Domů' );
+$pion->html->a( '' );
+$pion->html->a();
+
+https://pion.test
+https://pion.test/index
+https://pion.test/example-page
+https://pion.test/example-page?error=Error%20occured * alias danger
+https://pion.test/example-page?success=Created
+https://pion.test/example-page?ajaxRegion=region_notify (ajax_success: if (/<!doctype html>/.test(data)) parse_as_page; else parse_as_region)
+https://pion.test/html (homepage.php -> index.html)
+https://pion.test.janrenner.cz/
+
+
+
+
+
+
+
+

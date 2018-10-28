@@ -1,0 +1,289 @@
+﻿
+https://www.jakpsatweb.cz/css/css-kaskadovani.html
+https://www.vzhurudolu.cz/prirucka/css-kaskada
+https://www.vzhurudolu.cz/prirucka/css-jazyk-problemy
+https://www.vzhurudolu.cz/prirucka/komponenty-kontexty
+https://www.vzhurudolu.cz/prirucka/mobile-first
+https://www.vzhurudolu.cz/prirucka/viewport-meta
+https://www.vzhurudolu.cz/blog/47-znicit-mobilistu-1
+https://www.vzhurudolu.cz/blog/48-znicit-mobilistu-2
+https://www.vzhurudolu.cz/prirucka/lide-a-zarizeni
+https://www.vzhurudolu.cz/prirucka/bootstrap-typografie
+https://www.vzhurudolu.cz/prirucka/pattern-lab
+https://www.smashingmagazine.com/2016/12/mistakes-developers-make-when-learning-design/
+https://www.zbyseknadenik.cz/blog/caste-chyby-webovych-grafiku/
+https://www.ilincev.com/web-design-je-mrtvy
+https://www.vzhurudolu.cz/blog/93-levny-webdesign-na-miru-nema-smysl
+https://www.vzhurudolu.cz/prirucka/webovy-koder
+Typografický manuál https://goo.gl/FBdCze
+
+
+https://www.vzhurudolu.cz/prirucka/oocss
+https://github.com/stubbornella/oocss/wiki
+https://github.com/necolas/idiomatic-css/tree/master/translations/cs-CZ
+
+https://www.vzhurudolu.cz/prirucka/smacss
+https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+
+https://www.vzhurudolu.cz/prirucka/bem
+https://www.vzhurudolu.cz/blog/63-bem-chyby
+http://getbem.com/
+https://en.bem.info/methodology/
+https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849
+https://github.com/getbem/getbem.com/issues/152
+https://www.quora.com/How-do-I-organize-Bootstrap-CSS-with-the-BEM-methodology
+https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f
+https://stackoverflow.com/questions/49524254/how-to-properly-mix-bootstrap-and-bem
+
+
+http://sass-lang.com/
+https://www.vzhurudolu.cz/prirucka/preprocesory-extend
+http://thesassway.com/beginner/the-inception-rule
+http://bradfrost.com/blog/post/sass-selectors-to-nest-or-not-to-nest/
+https://www.vzhurudolu.cz/prirucka/rcss-zasady
+https://www.vzhurudolu.cz/blog/65-css-kod-problemy
+https://www.vzhurudolu.cz/prirucka/stylelint
+
+
+https://github.com/xfiveco/css-coding-standards
+https://timkadlec.com/2008/12/manageable-css-with-cssdoc/
+https://css-tricks.com/options-programmatically-documenting-css/
+https://www.devlounge.net/code/getting-started-with-cssdoc-commenting
+https://make.wordpress.org/core/handbook/best-practices/coding-standards/html/
+https://stackoverflow.com/questions/1155799/how-to-properly-indent-php-html-mixed-code/1155811#1155811
+https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html
+https://google.github.io/styleguide/htmlcssguide.html
+http://codeguide.co/
+https://www.php-fig.org/psr/psr-2/
+
+https://www.vzhurudolu.cz/prirucka/rychlost-designeri
+https://www.jakpsatweb.cz/clanky/na-co-stranka-ceka.html
+https://www.souki.cz/jak-efektivne-nacitat-webfonty
+https://www.zachleat.com/foitfout/
+https://www.vzhurudolu.cz/blog/35-critical-css
+https://www.jakpsatweb.cz/server/http-2-server-push.html
+https://www.vzhurudolu.cz/prirucka/amp-webari-preload
+https://www.vzhurudolu.cz/prirucka/weby-bez-css
+https://www.vzhurudolu.cz/prirucka/lazy-loading
+https://www.youtube.com/watch?v=TAyp19NBLdA
+https://www.vzhurudolu.cz/prirucka/http-2
+
+https://tools.pingdom.com/
+https://developers.google.com/speed/pagespeed/insights/
+https://tinypng.com/
+cdn,imgcdn
+http2
+
+https://www.zdrojak.cz/serialy/wcag-2-0/
+https://www.vzhurudolu.cz/prirucka/wai-aria
+https://www.vzhurudolu.cz/prirucka/html5-struktura
+Proč HTML5 sucks https://www.html5accessibility.com/
+http://kratce.vzhurudolu.cz/post/38371151431/html5-elementy
+http://www.webylon.info/K.42
+
+https://www.vzhurudolu.cz/prirucka/css3-flexbox
+https://www.vzhurudolu.cz/prirucka/bootstrap-4-grid
+https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/
+https://www.vzhurudolu.cz/prirucka/css-grid
+https://www.root.cz/clanky/css-grid-revoluce-ve-web-designu/
+https://www.vzhurudolu.cz/prirucka/css-grid-inspirace
+https://www.vzhurudolu.cz/prirucka/bootstrap-4-utility
+https://www.vzhurudolu.cz/blog/82-tachyons-nejremeslnici
+https://www.vzhurudolu.cz/blog/60-bootstrap-tipy
+https://www.vzhurudolu.cz/blog/122-webexpo-2018
+https://www.vzhurudolu.cz/prirucka/css3-background-origin
+https://www.vzhurudolu.cz/blog/57-href-tel
+https://stackoverflow.com/a/11381730/1823774
+https://www.vzhurudolu.cz/prirucka/reseni-flexbox-paticka
+https://www.vzhurudolu.cz/blog/59-css-video-hlavicka
+https://www.vzhurudolu.cz/blog/101-2017
+https://www.slideshare.net/SuperKoderi/pro-je-irozhlas-super
+https://www.vzhurudolu.cz/prirucka/figure-figcaption
+https://www.vzhurudolu.cz/prirucka/iphone-x
+https://www.vzhurudolu.cz/prirucka/button
+https://www.vzhurudolu.cz/prirucka/picture
+https://www.vzhurudolu.cz/prirucka/srcset-sizes
+https://www.vzhurudolu.cz/prirucka/reseni-elasticka-typografie
+https://www.vzhurudolu.cz/blog/83-nng-input-date
+https://www.vzhurudolu.cz/prirucka/favicon
+https://www.vzhurudolu.cz/prirucka/reseni-zeldmanovo-zatrzitko
+https://www.vzhurudolu.cz/prirucka/css3-calc
+
+
+http,dns
+http hlavicky,ie,cache,https,secur headers
+https://www.vzhurudolu.cz/prirucka/https
+https://www.ssllabs.com/ssltest/
+https://securityheaders.com/
+https://toolbox.googleapps.com/apps/dig/
+https://www.jakpsatweb.cz/clanky/caching-tutorial-czech-translation.html
+htaccess
+owasp
+
+https://www.vzhurudolu.cz/prirucka/prohlizece
+https://www.vzhurudolu.cz/blog/20-pet-procent
+https://www.vzhurudolu.cz/blog/19-prohlizec-facebook
+https://www.toplist.cz/global/
+http://www.google.com/analytics/
+https://caniuse.com/
+
+http://screensiz.es/
+https://material.io/tools/devices/
+https://www.mydevice.io/
+https://www.vzhurudolu.cz/prirucka/rozliseni-displeje
+https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/
+https://www.uxpin.com/studio/blog/guide-mobile-app-design-best-practices-2018-beyond/
+https://developer.apple.com/design/human-interface-guidelines/
+https://developer.android.com/design/
+
+https://stackoverflow.com/
+https://css-tricks.com/
+https://developers.google.com/web/fundamentals/
+
+
+https://litmus.com/
+https://putsmail.com/
+https://www.campaignmonitor.com/resources/
+https://www.browserstack.com/
+https://www.vzhurudolu.cz/prirucka/lighthouse
+
+
+https://getbootstrap.com/
+https://foundation.zurb.com/
+https://getuikit.com/
+http://ink.sapo.pt/
+https://semantic-ui.com/
+https://material.io/
+https://material-ui.com/
+https://materializecss.com/
+https://reactstrap.github.io/
+https://react-bootstrap.github.io/
+https://react-md.mlaursen.com/
+https://ng-bootstrap.github.io/#/home
+css animations
+svg
+
+https://builtwith.com/
+https://www.wappalyzer.com/
+
+
+https://cs.wikipedia.org/wiki/JavaScript
+https://www.crockford.com/javascript/
+https://www.crockford.com/javascript/code.html
+https://www.crockford.com/javascript/private.html
+https://www.crockford.com/javascript/prototypal.html
+https://www.zdrojak.cz/clanky/oop-v-javascriptu-i/
+https://yuiblog.com/blog/2007/06/12/module-pattern/
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+http://usejsdoc.org/
+
+
+
+seo
+http://html5doctor.com/outlines/
+marketing
+tools
+
+
+Další čtení a zajímavosti
+=====================
+
+https://www.vzhurudolu.cz/blog/38-design-v-prohlizeci
+https://drive.google.com/drive/folders/0B9wMOgfqWtH9dXlPWUppN1d3QWc?usp=sharing
+https://www.uxpin.com/studio/blog/design-systems-vs-pattern-libraries-vs-style-guides-whats-difference/
+https://www.zdrojak.cz/clanky/antipatterny-smradlavy-kod-a-peteruv-princip-v-it/
+https://www.vzhurudolu.cz/podcast/75-hluboka-prace
+https://superkoders.com/references
+
+
+
+https://cs.wikipedia.org/wiki/Pr%C5%AFb%C4%9B%C5%BEn%C3%A1_integrace
+
+======================
+git
+docker
+{
+    node.js
+    LAMP + bash
+    composer
+}
+
+https://www.vzhurudolu.cz/prirucka/nastroje
+https://www.vzhurudolu.cz/podcast/84-podcast-npm-yarn
+https://www.webmistr.wtf/wordpress-workflow/
+https://www.vzhurudolu.cz/prirucka/node-instalace
+https://www.zdrojak.cz/clanky/webpack-balime-si-dovolenou-produkci/
+https://medium.com/@fczbkk/yarn-prv%C3%A9-dojmy-a-predpove%C4%8F-bud%C3%BAcnosti-83598caf5914
+https://www.dzejes.cz/prvni-dev-stack.html
+
+https://designrevision.com/demo/shards/
+https://www.codeinwp.com/blog/top-free-ui-kits/
+https://gijgo.com/
+https://datatables.net/
+
+
+co všechno řeší aktuální devstack?
+jak to bude řešit nový? lze to vylepšit?
+prozkoumat, co z toho má BS/Modernizer, a tedy nemusí být v našich helperech
+co dalšího přidat?
+sestavit si tabulku podpory podle https://caniuse.com/#home
+
+
+
+
+pion - 
+datovy obsah obrazovek /tedy i be logika/ bude z 90 % zachovan 
+	- facelift muze upravit jen layout a ux vlastnosti datove stejnych komponent
+	- pridat /mikro/komponenty, viz nth
+	- vylepsit navigaci - zkratky na caste akce
+sablony na serveru generuji html, tj. bezi to i bez js /s vyjimkou mikrokomponent/
+ajax updatuje shodne regiony bez ohledu, jestli dostal cele html nebo partial, nasledne udela update a uklidi
+	! vyresit url a historii
+synchronnost resi ajax queue
+vyjimky - vytvareni /sablony/ a updaty malych komponent /notifikace, kalkulacka, .../ a rozsirovani domu /listy, tables/
+	=> tzn. prostor pro optimalizace na serveru - kontroler muze posilat jen potrebne regiony, pokud bude dost chytry 
+	- ale ta progresivni optimalizace nezavisi na fe /pripadne lze fe rozvijet opakovanym pouzitim stejnych komponent nebo jejich konfiguraci/
+cely fe sestava vlastne z 
+* layoutu
+* navigace
+* subnavigace a mikrolayoutu
+* datagridu /v view & edit modu, tj form poli s logikou/
+* formularu /s logikou - validace, krizove vazby, pridavani do seznamu, razeni.../
+* mikrokomponent /globlani hledani, kalkulacky, grafy, notifikace/ zde distribuce logiky mezi be a fe zhruba zachovana stavajici
+nice-to-have je dashboard /s widgety, konfigurovateny per role/ a notifikace
+! musi se vyresit zobrazeni 1/ layoutu a navigace 2/ datagridu 3/ mikrokomponent na mobilech /nebo navrhnout jejich alternativy/
+na tabletech bude desktop zobrazeni, pokud staci vykonove, jinak viz mobil
+hlavne nezkurvit to, co momentalne funguje ke spokojenosti uzivatelu
+design v cistem BS, skinovatelny
+-> udelat seznam komponent
+-> navrhnout technologie, asi BS4, jQuery UI pro DND, backbone (binding), neco na ajax queue, URL a historii, neco jednoducheho na grafy, datagrid
+-> odhadnout
+-----------------------------
+definovat chovani vsech komponent + wires
+pak je mozne zaroven psat layout a z druhe strany komponenty, staticky
+pak updatovat sablony a postupne to mergovat
+----------------
+nth jsou zjednodusene drafty smluv, zjednodusene views, vylepsene vyhledavani /naseptavac, vyber rozsahu.../
+
+
+
+
+https://en.wikipedia.org/wiki/Single-page_application#JavaScript_frameworks
+https://softwareengineering.stackexchange.com/questions/344107/whats-actually-wrong-with-an-endpoint-returning-html-rather-than-json-data
+https://stackoverflow.com/a/1284397/1823774
+https://www.vzhurudolu.cz/prirucka/responzivni-grafy
+
+
+SIMILAR
+http://www.google.com/analytics/
+
+
+
+
+
+https://hackintosh.com/
+https://medium.com/sketch-app-sources/how-i-started-using-sketch-app-in-windows-756e7091b0bc
+
+
+
+
