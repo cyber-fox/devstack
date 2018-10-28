@@ -1,4 +1,4 @@
-* slack,mail
+﻿* slack,mail
 * EUC
 * PION
     + devstack
@@ -8,46 +8,84 @@
 http://yeoman.io/
 http://pho.madebysource.com/
 
+https://sass-guidelin.es/
+https://css-tricks.com/sass-style-guide/
+https://vanseodesign.com/css/sass-directory-structures/
 https://webdesign.tutsplus.com/articles/structuring-sass-saying-goodbye-to-atomic-design-ambiguity--cms-26679
+https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/
+https://www.hongkiat.com/blog/sass-tips-tools-for-developers/
+https://www.sitepoint.com/8-tips-help-get-best-sass/
 
 dev/
     - js/
         - config/
+            - .gitkeep
         - global/
+            - .gitkeep
         - helpers/
+            - .gitkeep
         - modules/
+            - .gitkeep
         - app.js
     - scss/
         - config/
+            - _variables.scss
+            - _vendors.scss
         - components/
             - atoms/
+                _buttons.scss
                 _colors.scss
+                _inputs.scss
+                _loaders.scss
                 _typography.scss
             - molecules/
-                - .gitkeep
+                - _search.scss
             - organisms/
+                - _header.scss
+                - _sidebar.scss
+                - _pane.scss
             - pages/
+                - _report.scss
             - templates/
+                - _dashboard.scss
+                - _layout.scss 	/* common layout = layout hlavních částí: header - main - footer */
+                - _login.scss
+                - _report.scss
         - helpers/
             - functions/
+                - .gitkeep
             - mixins/
+                - .gitkeep
             - utility/
+                - _margins.scss
         - skins/
+            - staropramen/
+                - _colors.scss
+                - _header.scss
+                - _variables.scss
         - app.scss
     - templates/
+        - _layout.html
+        - dashboard.html
+        - login.html
 mockup/
+    - class/
+        - Mockup.php
     - data/
+        - .gitkeep
     - mockups/
-    - templates/
-        - smarty/
+        - .gitkeep
     - loader.php
     - pages.php
 resources/
+    - .gitkeep
 www_root/
     - css/
         - common.css
     - fonts/
+        - .gitkeep
     - images/
+        - .gitkeep
     - js/
         - common.js
         - critical.js
@@ -55,6 +93,9 @@ www_root/
     - index.php
     - robots.txt
 .gitignore
+composer.json
+composer.lock
 package.json
+package-lock.json
 README.md
 

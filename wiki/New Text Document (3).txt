@@ -5,6 +5,8 @@ CSSInliner
 wp - https://www.upstatement.com/timber/
 https://twig.symfony.com/
 
+rycholost		https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
+konzerva		https://www.vzhurudolu.cz/podcast/90-podcast-honza-bien-wordpress
 
 KSS
 https://warpspire.com/kss/styleguides/
